@@ -16,7 +16,7 @@ curl -v -X GET https://api-m.sandbox.paypal.com/v1/identity/oauth2/userinfo?sche
   "verified_account": true,
   "emails": [
     {
-      "value": "user1@example.com",
+      "value": "user1@paypal.com",
       "primary": true
     }
   ]
